@@ -1,4 +1,4 @@
-__author__ = 'Samir'
+__author__ = 'Rifqan'
 
 import tkinter as tk
 import webbrowser
